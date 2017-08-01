@@ -17,6 +17,6 @@ public class Test : MonoBehaviour {
 	}
     private void LateUpdate()
     {
-        Debug.Log("Late update");
+        
     }
 }
